@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sota Wakatsuki 👋
 
-<!--
-**wakatsuki-makes/wakatsuki-makes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer Student from Japan.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agents
+- LLM Applications
+- RAG Systems
+- Web Development
+
+## Currently Learning
+
+- Python
+- TypeScript
+- Next.js
+- Git & GitHub
+- LangGraph
+
+## 2026 Goals
+
+- Build 3 AI applications
+- Get a long-term internship
+- Become a stronger AI engineer
+
+## Projects
+
+Coming Soon 🚀
