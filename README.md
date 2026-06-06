@@ -31,5 +31,3 @@ Coming Soon 🚀
 
 - 2026-06-06 Created GitHub account
 - 2026-06-06 Setup GitHub Desktop
-
-## test test
